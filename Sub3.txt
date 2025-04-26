@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.44.194:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.194:443
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.152.2:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
-vless://1d7a7b23-725f-41a4-96e8-517c4af78e58@172.66.44.245:443?security=tls&sni=mAHDIseRVer-PjA.pages.DEv&type=ws&host=mahdiserver-pja.pages.dev&path=%2F4SRctKJJ08D87Q3k%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.245:443
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.24.72.125:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.72.125:443
-vless://64fcae91-88ba-4f72-8a51-18c615535619@157.180.30.213:49591?security=none&type=tcp&host=78.111.6.18&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-157.180.30.213:49591
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.240:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.240:2095
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.136.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.164:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.164:80
 vless://3feb3c38-d864-4184-f051-7d6156234f7f@104.26.1.117:8880?security=none&type=ws&host=Mystic-vpn.academivpn-mystic.site.&path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.117:8880
@@ -603,3 +597,9 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.246:80?security=none&ty
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2FTELEGRAM-GH_V2RAYNG%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:80
 vless://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:8443?security=tls&sni=app.soft10.ir&type=httpupgrade&host=app.soft10.ir&path=/8PaKguUsL3cShypYFXoLUeVZ81vwc&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.37.43:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.104:2086?type=ws&host=redw.pooriam.ir#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.56.104:2086
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.156:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram@WangCai2/?ed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.156:80
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.135:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.135:443
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.41:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.30.125:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.168:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.168:80
+vless://6865584d-f1ed-4791-9f64-f9544bc14391@104.21.48.1:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:443

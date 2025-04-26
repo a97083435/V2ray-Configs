@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://27cbfd99-8afe-4f86-aaf8-e4d4af202eee@151.101.42.133:80?type=xhttp&host=joinbede_vmessorg.ir&path=%2F%40v%6de%73s%6frg----%40v%6de%73s%6frg-----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg%3Fed%3D2480#🔒 VL-XHTTP-NA 🇺🇸 US-151.101.42.133:80
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.123:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.123:443
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@36.147.48.122:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&fp=chrome#🔒 VL-WS-TLS 🇨🇳 CN-36.147.48.122:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.202:2083?security=tls&sni=edccw.aimercc.filegear-sg.me&type=ws&host=edccw.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.202:2083
-vless://ab77541c-6e13-0c9e-ae07-f1434ce33724@188.114.98.224:8080?security=none&type=ws&host=sd.w.43.43.43.3wer.rs.sedf.ff3.34353.5.35rf.df.a34r.34.54.324.234.34645y.rtgfgrg5rty.5ey5ey.rt5rt4.ert45.sdsa.cloudns.be.%3A102%3Awww.speedtest.net.ls.cd.Elmahstyle.ir.%3Awosssww.speedtest.ne.elma.Elmahstyle.iR.&path=%2Findex.html%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8080
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.252.217:443
 vless://dfb6f849-e7d7-4994-80f7-1bd19b593a2a@172.66.168.199:443?security=tls&sni=Uk-FuLl.pRIvAteiP.nET&type=ws&host=Uk-FuLl.pRIvAteiP.nET&path=/VLESS#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.199:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.226:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.226:80
 vless://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@172.67.187.18:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.67.187.18:443
@@ -603,3 +597,9 @@ vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.38:2052?security=none&t
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.82:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.82:443
 vless://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.204.75:443?security=tls&sni=sanjose-dy.818185.xyz&type=ws&host=sanjose-dy.818185.xyz&path=%2FoLdow5owANhO1cThJQeJb&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.75:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
+vless://d26051e0-dc00-4de5-b4b4-096265b92905@93.183.89.244:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=vadim.fun&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-93.183.89.244:4434
+vless://91941162-4e29-411f-b986-d16c8d79084a@173.245.59.132:2053?security=tls&sni=holze.gt-ov.com&type=ws&host=holze.gt-ov.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.132:2053
+vless://ca57cabb-21f5-4084-8d17-72e9aa5132d3@84.234.28.26:443?type=tcp#🔒 VL-TCP-NA 🇨🇭 CH-84.234.28.26:443
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.16.188.41:443?security=tls&sni=cr7.medicalhistory.ir&type=ws&host=cr7.medicalhistory.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.188.41:443
+vless://392afad2-43e3-4414-a5c3-b529a44df4e3@104.21.92.119:80?security=none&type=ws&host=7.arsalanv2.sbs&path=%2F%40v2rayNG_VPNN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.119:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-188.245.154.13:8880
