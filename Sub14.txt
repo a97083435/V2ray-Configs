@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEzIHwgIDMuNU1CL3MiLCAiYWRkIjogInRrLmh6bHQudGtkZG5zLnh5eiIsICJwb3J0IjogMjI2NDEsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjk4ZTk2YzlmLTRiYjMtMzlkNC05YTJjLWZhYzA0MjU3ZjdjNyJ9
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A74%20%7C%20%205.8MB/s
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?allowInsecure=1&sni=hk-13-568.flztjc.net#2%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%201.0MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@vip.jddns0202.top:15700?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%206.1MB/s
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?sni=dash.cloudflare.com&type=grpc&serviceName=7594vlessflow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA8%20%7C%20%201.8MB/s
