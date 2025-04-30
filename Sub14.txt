@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://05f1368b-1743-48a3-b2a5-56343e64e7be@sg.lyyyds.club:443?allowInsecure=0&sni=sg.lyyyds.club#2%2C15%7CJP_speednode_0028
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4eo8J+HpjEgfCAgNS4zTUIvcyIsICJhZGQiOiAidjI1LmhlZHVpYW4ubGluayIsICJwb3J0IjogMzA4MjUsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi9vb29vIn0=
-vless://3c3ff8d8-5239-4fc7-bc9f-8be850953b48@104.19.223.79:443?sni=638813915763477423.madrid-pnthprx-aaaaa.info&type=ws&host=638813915763477423.madrid-pnthprx-aaaaa.info&path=/yapyorwsflow=-udp443&fp=&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%204.3MB/s
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?allowInsecure=0&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C15%7CCH_speednode_0003
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.8.211.230:443?sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=/flow=-udp443&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.4MB/s
-vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@104.24.236.108:443?allowInsecure=0&sni=520588.xyz&type=ws&host=520588.xyz&path=/?ed=2560fp=random&security=tls#2%2C15%7CUS_speednode_0139
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:49699?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%204.6MB/s
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.142.120.97:443?sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=/flow=-udp443&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A73%20%7C%20%205.7MB/s
 vless://fdb9faa8-753a-40e2-ab35-6afc43389100@195.234.63.156:443?sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%801-KZ%20%7C%20%205.1MB/s
