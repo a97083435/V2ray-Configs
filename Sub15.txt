@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://12e26518-cb0c-41a7-a03e-1454999b7254@104.16.96.123:2053?allowInsecure=0&sni=4534295.dpdns.org&type=ws&host=4534295.dpdns.org&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0053
+vless://9279a169-0e59-44ad-8575-b869dc9cb14d@www.speedtest.net:8880?allowInsecure=0&sni=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048fp=chrome#14%7CUS_speednode_0054
+vless://9279a169-0e59-44ad-8575-b869dc9cb14d@104.17.148.22:8880?allowInsecure=0&sni=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048fp=chrome#14%7CUS_speednode_0055
+vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.16.32.132:443?allowInsecure=0&sni=w-mce.pages.dev&type=ws&host=w-mce.pages.dev&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0056
 vless://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@104.16.94.194:2096?allowInsecure=0&sni=agstick.eu.org&type=ws&host=agstick.eu.org&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0057
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?allowInsecure=0&sni=teslakit1.pages.dev&type=ws&host=teslakit1.pages.dev&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0059
 vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.16.156.65:443?allowInsecure=0&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&path=/?ed=2560fp=random&security=tls#14%7CUS_speednode_0060
