@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://bb09bef7-99ba-41e1-9073-4222d0d93211@104.21.69.44:8443?security=tls&sni=be1.vlessvh.site&type=ws&host=be1.vlessvh.site&path=%2Fvless&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:8443
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.44.194:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.194:443
 vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.16:80
 vless://581fa7d6-976e-4b20-d6de-1a4daa07fed6@162.19.212.19:19356?security=none&type=grpc&serviceName=DarkTeam_VPN#🔒 VL-GRPC-NONE 🇫🇷 FR-162.19.212.19:19356
@@ -603,3 +602,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.133.226:443?sni=edccd.amber
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.192:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.192:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇾 CY-171.22.124.176:2198
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.178:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:2096
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?security=tls&sni=nikuw.sspeednetokala.uS.kg&type=ws&host=nikuw.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.2.60:443

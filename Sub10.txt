@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.211.255:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.255:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.162.183.106:12197?sni=edccd.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-221.162.183.106:12197
 vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.12.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:443
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.246:2087
@@ -603,3 +602,4 @@ trojan://Aimer@172.67.158.96:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://vip@172.67.70.188:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.70.188:443
 trojan://Aimer@154.197.64.166:2053?sni=epccd.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.166:2053
 trojan://NuL1nBAAaM@104.21.15.33:2083?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.15.33:2083
+trojan://68ca55a5-1037-41c8-869e-c12c79c47041@45.146.232.171:46668?sni=q08m.vgraxiw73s.hasyaf.cn#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.171:46668
