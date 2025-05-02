@@ -77,7 +77,6 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
-        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
         "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
         "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
@@ -100,7 +99,6 @@ def main():
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://mrpooya.top/SuperApi/V7pRO.php"
     ]
 
     decoded_links = decode_links(links)
