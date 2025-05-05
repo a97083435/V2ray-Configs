@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.181:443
 vless://d9011597-b3e0-44ab-9048-b791e0e8bc45@104.17.135.188:443?security=tls&sni=neko.bzero1250.workers.dev&type=ws&host=neko.bzero1250.workers.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.135.188:443
 vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?security=tls&sni=fly-z4h.pages.dev&type=ws&host=fly-z4h.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.174.219:443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.67.69.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.241:443
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.5.200:80?type=ws&host=a.mife
 vless://83086fe1-7f75-44aa-84e1-496f7fa24a6e@172.82.67.154:11662?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-172.82.67.154:11662
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.100:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.100:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.55:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.55:80
-vless://a2e60452-9974-45a7-a32f-719a78ee21b0@104.21.79.42:8080?security=none&type=httpupgrade&host=blog.fastroot.ir&path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.79.42:8080
-vless://28886c09-721a-447d-a82e-72c5500858f3@104.21.71.8:2083?security=tls&sni=TAsNiM.iTn24.IR&type=ws&host=tasnim.itn24.ir&path=%2FMaQIF0W0gcLzI5m8ZghCC5&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.8:2083

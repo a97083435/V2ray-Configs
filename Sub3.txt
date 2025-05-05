@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.209.1:443?security=tls&sni=PPaL03.WIpAPe6855.worKers.deV&type=ws&host=PPal03.WIpAPE6855.WorkErS.DEv&path=%2FxXEaHZGNbttsUOHv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.1:443
+vless://656fc8a0-90a9-59de-88bc-b4211dc6adc0@104.16.121.22:80?security=none&type=ws&host=exit.fastroot.ir&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.121.22:80
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.195.178:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.178:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.119:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.119:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.204:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.204:80
@@ -601,5 +603,3 @@ vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&sn
 vless://48554df0-1993-4395-8900-478be9a88ff0@88.198.101.66:443?security=tls&sni=stackoverflow.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-88.198.101.66:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.167:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.167:80
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.99:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.99:2052
-vless://e9a5e9e1-0bdb-4a58-b7e2-c1f8b95cf260@104.17.234.107:2096?security=tls&sni=Join-Te1gram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.107:2096
-vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.20.1.94:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.1.94:443

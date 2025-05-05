@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a4924fd2-ffc7-4749-ab49-22435b7c0322@172.66.44.98:2053?security=tls&sni=mAhdIServER-4Rm.paGEs.Dev&type=ws&host=mAhdIServER-4Rm.paGEs.Dev&path=%2F4urxrmj89fiisbgc%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.98:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:8443
 vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.190.22:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇫🇮 FI-65.109.190.22:2087
 vless://6965e558-73a4-4808-a778-67e8a82d15aa@172.64.157.123:8443?sni=1.659118019.uk&type=ws&host=1.659118019.uk&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.123:8443
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.6:2053
@@ -601,5 +603,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.7.32:2096?security=tls&sni=S
 vless://f18b885b-bae4-4236-b602-b49830d5f88c@151.101.246.133:80?security=none&type=xhttp&host=Xpnteamfastingfree.ir#🔒 VL-XHTTP-NONE 🇫🇮 FI-151.101.246.133:80
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@156.238.18.162:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🇯🇵 JP-156.238.18.162:2087
 vless://c2795ae1-2cbf-49a0-931e-11800a1e6a8a@172.66.44.191:443?security=tls&sni=beStiIivpn.PAGEs.dev&type=ws&host=bestiiivpn.pages.dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.191:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.181:443
