@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ec18f06a-4f88-4ad8-aae4-e55d1eec305a@172.67.169.35:2087?security=tls&sni=good.speedtest3.online&type=ws&host=good.speedtest3.online&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.35:2087
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.179:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.179:80
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
 vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@104.18.218.118:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.218.118:8443
@@ -603,3 +602,4 @@ trojan://Aimer@27.50.48.126:2083?sni=tyep.esslh.filegear-sg.me#🔒 TR-TCP-NA �
 trojan://Aimer@172.67.170.60:443?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.170.60:443
 trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.175.149:443
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
+trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
