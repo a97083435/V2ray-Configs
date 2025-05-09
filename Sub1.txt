@@ -597,9 +597,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:37512/?plu
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505061413967-ARiTaH7btE.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505061413967-ARiTaH7btE.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
-vless://aaabccb-abca-caab-dbca-aabcbcbacacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-19-ORDIBEHESHT-1404 🕑 10:45
-vless://aacacbb-caba-aabc-bcda-accbaacbbacb@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://baabcac-acba-cbaa-cbad-bacbbcbacaac@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://c15f4413-9011-4adc-ac26-9f2b2f83de6c@194.87.71.168:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#🔒 VL-TCP-RLT 🇩🇪 DE-194.87.71.168:443
-vless://9e1f303f-be18-4892-b697-a8cf546f371d@37.27.206.75:26528?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.206.75:26528
-vless://3f789164-ca20-4041-89c0-bc553819970c@91.238.82.241:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-91.238.82.241:8443
+vless://abbcaac-acab-bcaa-bacd-babbcccbaaac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-19-ORDIBEHESHT-1404 🕑 11:27
+vless://bcbaaca-baca-cbaa-dbca-aabbbccccaba@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://ccbbaaa-aabc-acba-dabc-bbbaaacbccca@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://0870a931-b121-1278-f010-b140a958a300@85.90.207.73:2090?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔒 VL-TCP-RLT 🇦🇲 AM-85.90.207.73:2090
+vless://98fb73f1-4806-4b2d-95e7-e455bdc3f87b@64.23.131.38:21853?security=reality&flow=xtls-rprx-vision&sni=southernpalmskenya.com&type=tcp&fp=qq&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8#🔒 VL-TCP-RLT 🇺🇸 US-64.23.131.38:21853
+vless://0dd2b47b-e321-4bf1-add5-5f72fafec7d6@23.88.52.73:2096?security=reality&sni=Www.safine.net&type=tcp&fp=firefox&pbk=wzuNwzncGOhTuCcO2tt4j7es7b3logIYYlVmWvu1OBM&sid=118e3f91#🔒 VL-TCP-RLT 🇩🇪 DE-23.88.52.73:2096
