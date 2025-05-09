@@ -597,9 +597,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:37512/?plu
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505061413967-ARiTaH7btE.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505061413967-ARiTaH7btE.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
-vless://bcaaacb-bcaa-abca-badc-caaaabcbbccb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-19-ORDIBEHESHT-1404 🕑 13:30
-vless://bbcaaac-caab-baca-adbc-cabccbbbcaaa@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://acbcaba-acba-cbaa-dbca-cabbcbcbcaaa@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://3f789164-ca20-4041-89c0-bc553819970c@91.238.82.241:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-91.238.82.241:8443
-vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.135.58:443
-vless://60cb7a9f-d1c5-4328-82a4-7424254113dc@143.198.153.167:24747?security=reality&flow=xtls-rprx-vision&sni=businessmadesimple.com&type=tcp&fp=edge&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA#🔒 VL-TCP-RLT 🇺🇸 US-143.198.153.167:24747
+vless://cabcaab-caab-caba-bdca-ababccbacacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-19-ORDIBEHESHT-1404 🕑 14:35
+vless://ccbaaba-baca-aacb-badc-acbcbcbacaab@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://ccaaabb-aabc-acab-cbad-cacbabacbbac@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@45.150.174.87:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔒 VL-TCP-RLT 🇩🇪 DE-45.150.174.87:443
+vless://c77f7459-48f7-4a80-9c98-35b54f4df50d@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#🔒 VL-TCP-RLT 🇵🇱 PL-95.164.35.169:32756
+vless://d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2@140.238.89.224:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=ZMtlGCYlW4xf2_g1ruTqLEw1H57ggWXrb6aAbh029lo&sid=9a89fdfc#🔒 VL-TCP-RLT 🇬🇧 GB-140.238.89.224:8443
